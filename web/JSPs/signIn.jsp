@@ -7,7 +7,7 @@
 
     <head>
         <title>JMU Idea Hub</title>
-        <link rel="stylesheet" type="text/css" href="style/signIn.css"/>
+        <link rel="stylesheet" type="text/css" href="../style/signIn.css"/>
     </head>
     <body>
        
@@ -18,8 +18,7 @@
             <div id="contentArea">
                
                 <div id="signInLeft">
-                <h2>Sign In</h2>
-                <fieldset>
+                <h2>Sign In!</h2>
                 
                 <div id="signInTable">
                 <table cellpadding="5">
@@ -43,8 +42,7 @@
                 </div>
                 
                    <div id="signInButton"> <input type="submit" value="Sign In"
-                                              name="register"/> </div>  
-                </fieldset>
+                                              name="register"/> </div>           
                 </div>
                 
                 
